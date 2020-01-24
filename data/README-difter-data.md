@@ -1,8 +1,8 @@
-# Drifter data
+# Drifter deployed on Inhambane Bay (Mozambique) in July 21, 2017.
 
-<a href="https://doi.org/10.5281/zenodo.12193XX"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1219348.svg" alt="DOI"></a>
-
-| [Português](./README-drifter-data-pt.md)
+<a href="https://doi.org/10.5281/zenodo.3626183"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3626183.svg" alt="DOI"></a>
+10.5281/zenodo.3626183
+| [Português](./README-gidrifter-data-pt.md)
 
 
 This is the data set of the track for the drifter deployed on Inhambane Bay (Mozambique) in July 21, 2017. 
@@ -11,12 +11,12 @@ This data is reported in the manuscript:
 
 Solana G.; Grifoll, M.; and Espino, M; 2020. Hydrographic variability and estuarine classification of Inhambane Bay (Mozambique)  In: Malvárez, G. and Navas, F. (eds.), Proceedings from the International Coastal Symposium (ICS) 2020 (Seville, Spain). Journal of Coastal Research, Special Issue No. 95, pp. 50-54. Coconut Creek (Florida), ISSN 0749-0208.
 
-The instrument used was a Arduino + GPS Fona Shield
+The instrument used was a Arduino + Adafruit Fona-GPS Shield
 
 ## DOWNLOAD
 
 [Data set](https://zenodo.org/record/1219348/files/PalauDrifters.nc?download=1)
-
+3626183
 
 ## METADATA
 
